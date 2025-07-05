@@ -12,8 +12,6 @@ I'm a web developer with a diverse skill set in both front-end and back-end tech
 - **C**: Programming and problem-solving using C.
 - **C++**: Advanced programming with C++.
 
-## Projects
-- **Project 1**: https://store.schoolsmp.fun/
 
 ## Contact
 - Email: anshpatel197200@gmail.com
